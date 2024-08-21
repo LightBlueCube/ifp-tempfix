@@ -1,0 +1,6 @@
+global function RespawnProtection_Init
+
+void function RespawnProtection_Init()
+{
+	// lets just do nothing
+}
